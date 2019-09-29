@@ -82,9 +82,9 @@ analytics:
 author:
   name             : "Ronan Fablet"
   avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
-  location         : "Brest, France"
-  employer         : IMT Atlantique, Lab-STICC UMR CNRS
+  bio              : "Data & Ocean Science"
+  location         : "IMT Atlantique, Brest, France"
+  employer         : "Lab-STICC UMR CNRS"
   pubmed           : 
   googlescholar    : "https://scholar.google.fr/citations?user=0donG7gAAAAJ"
   email            : "ronan.fablet[at]imt-atlantique.fr"
@@ -109,7 +109,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : #"replacethistwitterhandle"
   vine             :
   weibo            :
   xing             :
