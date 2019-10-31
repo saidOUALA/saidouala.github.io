@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a **Professor at <a href="https://www.imt-atlantique.fr">IMT Atlantique</a>** and a research scientist at Lab-STICC in the field of **Data Science and Computational Imaging**. I am deeply involved in interdisciplinary research at the **interface between data science and ocean science**, especially space oceanography and marine ecology. My current research interests include **deep learning for dynamical systems and applicationns to the understanding, analysis, simulation and reconstruction of ocean dynamics**, especially using satellite ocean remote sensing data.
+<div style="text-align: justify"> I am a **Professor at <a href="https://www.imt-atlantique.fr">IMT Atlantique</a>** and a research scientist at Lab-STICC in the field of **Data Science and Computational Imaging**. I am deeply involved in interdisciplinary research at the **interface between data science and ocean science**, especially space oceanography and marine ecology. My current research interests include **deep learning for dynamical systems and applicationns to the understanding, analysis, simulation and reconstruction of ocean dynamics**, especially using satellite ocean remote sensing data.</div>
 
 
 ## Recent posts
