@@ -20,6 +20,6 @@ Artificial Intelligence (AI) technologies and models open new paradigms to addre
 </div>
 
 <div style="text-align: justify">
-<strong> Principal Investigator:</strong>  R. Fablet, IMT Atlantique/Lab-STICC
+<strong> Role in the project:</strong>  Principal Investigator
 </div>
 
