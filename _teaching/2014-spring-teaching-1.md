@@ -7,13 +7,4 @@ venue: "IMT atlantique"
 date: 2014-01-01
 location: "Brest, FR"
 ---
-
-Computer Vision 
-======
-
-
-Deep learning
-======
-
-Computational imaging
-======
+Taught courses: computer vision, deep learning, computational imaging 
