@@ -43,8 +43,8 @@ Principal investigator of national and international research programs
 * Academic collaborations: Ifremer, IRD, IMARPE, IMEDEA, URI, Univ. Dalhousie, OUC, UW...
 * Industrial collaborations: ACRI-ST, iXBlue, ODL, CLS, Bookbeo, OceanNext
 
-Publications
-======
+#Publications
+#======
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
@@ -61,6 +61,4 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+
