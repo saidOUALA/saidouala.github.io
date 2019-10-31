@@ -11,21 +11,18 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* Engineer degree in Space and Aeronautics, ISAE (SUPAERO), Toulouse, FR 1997
+* M.S. in Applied Math., ISAE, 1997
+* Ph.D in Computer Vision, University of Rennes/INRIA Rennes, 2001
+* HDR ("Habilitation à Diriger des Recherches"), University of Brest, 2012
 
-Work experience
+Professional background
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Since 2008: Professor, IMT Atlantique; UMR Lab-STICC/TOMS, Brest (France)
+* 2016: Visiting professor, IMEDEA (CSIC-UIB), Mallorca (Spain)
+* 2010-2011: Visiting scientist, IRD/IMARPE (Peruvian Sea Research Institute), Lima (Peru)
+* 2002-2008: Research scientist, Ifremer, department of Fisheries Science and technology, Brest (France) 
+* 2001-2002: INRIA Postdoctoral grant, Computer Science Dept, Brown University (USA) 
   
 Skills
 ======
