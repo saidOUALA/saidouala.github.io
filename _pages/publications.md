@@ -5,11 +5,11 @@ permalink: /publications/
 author_profile: true
 ---
 
-Full publication list (including pdf versions):
+<div> Full publication list (including pdf versions):
 * <u><a href= "https://www.researchgate.net/profile/Ronan_Fablet"> My researchgate profile.</a> </u>
-* <u><a href= "https://haltools.archives-ouvertes.fr/Public/afficheRequetePubli.php?idHal=ronan-fablet-all&CB_auteur=oui&CB_titre=oui&CB_article=oui&langue=Anglais&tri_exp=annee_publi&tri_exp2=typdoc&tri_exp3=date_publi&ordre_aff=TA&Fen=Aff&css=../css/VisuRubriqueEncadre.css"> My hal profile. </a> </u>
+* <u><a href= "https://haltools.archives-ouvertes.fr/Public/afficheRequetePubli.php?idHal=ronan-fablet-all&CB_auteur=oui&CB_titre=oui&CB_article=oui&langue=Anglais&tri_exp=annee_publi&tri_exp2=typdoc&tri_exp3=date_publi&ordre_aff=TA&Fen=Aff&css=../css/VisuRubriqueEncadre.css"> My hal profile. </a> </u></div>
 
-  You can also find my articles on <a href="{{author.googlescholar}}">my Google Scholar profile</a>.
+<div>  You can also find my articles on <a href="{{author.googlescholar}}">my Google Scholar profile</a>.</div>
 <!--{% if author.googlescholar %}-->
 <!--{% endif %}-->
 
