@@ -19,4 +19,7 @@ Artificial Intelligence (AI) technologies and models open new paradigms to addre
 <strong> Partners:</strong>  IMT Atlantique/Lab-STICC, INRIA Rennes/Fluminance, INRIA GRA/AirSea, IGE, LOPS, LIP6, OceanNext, OceanDataLab
 </div>
 
+<div style="text-align: justify">
+<strong> Principal Investigator:</strong>  R. Fablet, IMT Atlantique/Lab-STICC
+</div>
 
