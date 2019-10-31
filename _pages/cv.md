@@ -24,14 +24,20 @@ Professional background
 * 2002-2008: Research scientist, Ifremer, department of Fisheries Science and technology, Brest (France) 
 * 2001-2002: INRIA Postdoctoral grant, Computer Science Dept, Brown University (USA) 
   
-Skills
+Principal investigator of national and international research programs
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* MELODY 2019-2023, ANR, 7 partners (AI & Ocean dynamics)
+* IA-OAC 2018-2021, LEFE/MANU, 8 partners (AI for Ocean, Atmosphere and Climate Science)
+* SESAME 2017-2020, ANR ASTRID, 4 partners (Maritime traffic surveillance and big data)
+* TIAMSEA, 2015-2017, Teralab, 4 partners (ocean remote sensing big data)
+* SEACS 2015-2019, Labex Cominlabs-Lebesgue-Mer, 5 partners (stochastic models for ocean dynamics)
+* MOBI3D, 2014-2016, “pôle Image & Réseaux”, 5 partners (Object recognition on mobile apps)
+* EMOCEAN, 2013-2017, ANR/NSFC, 5 partners (Data-driven strategies for ocean remote sensing)
+* FI2O, 2009-2012, CREATE Région Bretagne, 5 partners (Data-driven strategies for ocean dynamics)
+* OTOCAL, 2005-2008, ANR JC, 5 partners (Otolith biomineralization)
+* AFISA, 2007-2008, EU STREP, 7 partners (Otolith imaging and fish aging)
+* Academic collaborations: Ifremer, IRD, IMARPE, IMEDEA, URI, Univ. Dalhousie, OUC, UW...
+* Industrial collaborations: ACRI-ST, iXBlue, ODL, CLS, Bookbeo, OceanNext
 
 Publications
 ======
