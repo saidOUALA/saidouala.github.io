@@ -15,6 +15,10 @@ For links to preprints see:
 
 
 ## Preprints and papers in preparation
+* R. Fablet, L. Drumetz and F. Rousseau. <strong>  End-to-end learning of energy-based representations for irregularly-sampled signals and images.</strong>  arXiv, 1910.00556, 2019. (<a href= "https://arxiv.org/abs/1910.00556"> pdf.</a>)
+* S. Ouala, D. Nguyen, L. Drumetz, B. Chapron, A. Pascual, F. Collard, L. Gaultier, R. Fablet. <strong> Learning Latent Dynamics for Partially-Observed Chaotic Systems.</strong>  arXiv, 1910.00556, 2019. (<a href= "https://arxiv.org/abs/1907.02452"> pdf.</a>)
+* D. Nguyen, S. Ouala, L. Drumetz, R. Fablet. EM-like Learning Chaotic Dynamics from Noisy and Partial Observations.
+arXiv, 1903.10335, 2019. (<a href= "https://arxiv.org/abs/1903.10335"> pdf.</a>)
 
 ## Selected publications
 * F. Rousseau, L. Drumetz, R. Fablet. <strong> Residual Networks as Flows of Diffeomorphisms.</strong> JMIV, SI on "Mathematical Foundations of Deep Learning in Imaging Science", 2019.  (<a href= "https://hal.archives-ouvertes.fr/hal-01796729v2/document"> pdf.</a>)
