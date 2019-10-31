@@ -9,6 +9,10 @@ redirect_from:
 
 {% include base_path %}
 
+Domains of interest
+======
+Data science, computational imaging, deep learning & dynamical systems, satellite imagery, space oceanography, ocean monitoring and surveillance
+
 Education
 ======
 * Engineer degree in Space and Aeronautics, ISAE (SUPAERO), Toulouse, FR 1997
