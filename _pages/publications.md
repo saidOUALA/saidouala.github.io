@@ -13,6 +13,9 @@ For links to preprints see:
   You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
 {% endif %}
 
+[HAL]https://haltools.archives-ouvertes.fr/Public/afficheRequetePubli.php?idHal=ronan-fablet-all&CB_auteur=oui&CB_titre=oui&CB_article=oui&langue=Anglais&tri_exp=annee_publi&tri_exp2=typdoc&tri_exp3=date_publi&ordre_aff=TA&Fen=Aff&css=../css/VisuRubriqueEncadre.css[/HAL]
+
+
 ## Journal papers
 1.	A. d’Acremont, R. Fablet, A. Baussard, G. Quin. CNN-based target recognition and identification for infrared imaging in defense systems. Sensors, 2019. 
 2.	F. Rousseau, L. Drumetz, R. Fablet. Residual Networks as Flows of Diffeomorphisms. JMIV, SI “Mathematical Foundations of Deep Learning in Imaging Science”, 2019. 
