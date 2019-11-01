@@ -1,12 +1,10 @@
 ---
 layout: archive
-title: "Research Activities"
+title: "Research Themes"
 permalink: /projects/
 author_profile: true
 ---
 
-Research themes
-======
 * **Computer vision and signal processing:** inverse problems, data-driven and learning-based models, texture analysis, motion analysis, bayesian and variational models, data assimilation, ....
 * **Applications to marine ecology and oceanography:** ocean remote sensing, maritime tradic surveillance, submeso-to-mesoscale ocean dynamics, movement ecology, fish otoliths, fisheries acoustics, sonar seabed imaging,...
 
