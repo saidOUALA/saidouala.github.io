@@ -11,7 +11,6 @@ author_profile: true
 Projects
 ======
 {% include base_path %}
-
 {% for post in site.projects reversed %}
   {% include archive-single.html %}
 {% endfor %}
