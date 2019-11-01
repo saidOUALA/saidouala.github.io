@@ -8,6 +8,8 @@ redirect_from:
 ---
 
 {% include base_path %}
+**Link to one-page CV** (<a href="https://rfablet.github.io/files/cvANRrfablet2019.pdf">pdf</a>)
+
 
 Domains of interest
 ======
@@ -41,7 +43,19 @@ Principal investigator of national and international research programs
 * OTOCAL, 2005-2008, ANR JC, 5 partners (Otolith biomineralization)
 * AFISA, 2007-2008, EU STREP, 7 partners (Otolith imaging and fish aging)
 * Academic collaborations: Ifremer, IRD, IMARPE, IMEDEA, URI, Univ. Dalhousie, OUC, UW...
-* Industrial collaborations: ACRI-ST, iXBlue, ODL, CLS, Bookbeo, OceanNext
+* Industrial collaborations: ACRI-ST, Bookbeo, CLS, E-odyn, iXBlue, OceanDataLab, OceanNext
+
+
+Coordination and evaluation activities
+======
+* Co-PI of Research Theme "Long-Term Observing Systems" of EUR ISblue (Interdisciplinary graduate school for the Blue Planet, <a href="https://www.isblue.fr/">link</a>)
+*	Member of the CSFOF (scientific committee for the French Ocean Research “Flotte”) (2018-)
+*	Member of the Scientific Committee of LEFE/MANU (national program for Applied Math. And Numerical Methods in Ocean-Atmosphere Science) (2018-)
+*	Member of the "research council" of Télécom Bretagne (2009-2011)
+*	Member of the "Laboratory council" of UMR LabSTICC (2010-2015),
+*	Member of the scientific committee CGRA1 (in charge of the evaluation of engineering-science-related researcher and programmes) of the IRD (French Research Institute for the Development) (2012-2016)
+*	Member of the scientific committee of Ifremer project PopStar (2016-2018)
+
 
 <!--- Publications
 ======
