@@ -30,7 +30,7 @@ Professional background
 * 2002-2008: Research scientist, Ifremer, department of Fisheries Science and technology, Brest (France) 
 * 2001-2002: INRIA Postdoctoral grant, Computer Science Dept, Brown University (USA) 
   
-Principal investigator of national and international research programs
+PI of national and international research programs
 ======
 * MELODY 2019-2023, ANR, 7 partners (AI & Ocean dynamics)
 * IA-OAC 2018-2021, LEFE/MANU, 8 partners (AI for Ocean, Atmosphere and Climate Science)
@@ -44,7 +44,6 @@ Principal investigator of national and international research programs
 * AFISA, 2007-2008, EU STREP, 7 partners (Otolith imaging and fish aging)
 * Academic collaborations: Ifremer, IRD, IMARPE, IMEDEA, URI, Univ. Dalhousie, OUC, UW...
 * Industrial collaborations: ACRI-ST, Bookbeo, CLS, E-odyn, iXBlue, OceanDataLab, OceanNext
-
 
 Coordination and evaluation activities
 ======
