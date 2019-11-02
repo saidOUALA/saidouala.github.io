@@ -18,7 +18,9 @@ SEACS aims at exploring novel statistical and stochastic methods to address the 
 <div style="text-align: justify">
 <strong> Partners:</strong>  IMT Atlantique/Lab-STICC, INRIA Rennes/Fluminance, LOPS, IRMAR, LMBA
 </div>
-
+<div style="text-align: justify">
+<strong> Funding bodies:</strong>  Labex Cominlabs, Lebesgue & LabexMer
+</div>
 
 
 <div style="text-align: justify">
