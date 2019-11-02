@@ -8,7 +8,7 @@ date: 2019-01-01
 #location: "Brest, FR"
 ---
 
-Cominlabs-LabexMer-Lebesgue Melody (2015-2019) "Stochastic modEl-dAta-Coupled representationS for the analysis, simulation and reconstruction of upper ocean dynamics"
+Cominlabs-LabexMer-Lebesgue SEACS (2015-2019) "Stochastic modEl-dAta-Coupled representationS for the analysis, simulation and reconstruction of upper ocean dynamics"
 
 Summary. 
 ======
