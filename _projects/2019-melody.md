@@ -18,6 +18,9 @@ Artificial Intelligence (AI) technologies and models open new paradigms to addre
 <div style="text-align: justify">
 <strong> Partners:</strong>  IMT Atlantique/Lab-STICC, INRIA Rennes/Fluminance, INRIA GRA/AirSea, IGE, LOPS, LIP6, OceanNext, OceanDataLab
 </div>
+<div style="text-align: justify">
+<strong> Funding body:</strong>  ANR
+</div>
 
 <div style="text-align: justify">
 <strong> Role in the project:</strong>  Principal Investigator
