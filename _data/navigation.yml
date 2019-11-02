@@ -3,6 +3,9 @@ main:
   - title: "Blog Posts"
     url: /year-archive/
 
+  - title: "Highlights & Demo"
+    url: /portfolio/
+            
   - title: "Research"
     url: /projects/
 
@@ -15,9 +18,6 @@ main:
   - title: "Teaching"
     url: /teaching/    
     
-  - title: "Highlights & Demo"
-    url: /portfolio/
-            
   - title: "CV"
     url: /cv/
     
