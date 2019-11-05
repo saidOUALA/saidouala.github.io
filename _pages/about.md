@@ -12,7 +12,7 @@ redirect_from:
 </div>
   
 <div style="text-align: justify">
-  <img src="https://www.imt-atlantique.fr/sites/default/files/rfablet/anda.jpg" width="384">
+  <img src="https://rfablet.github.io/images/im-datawave.jpg" width="384">
 </div>
 
 ## Recent posts
