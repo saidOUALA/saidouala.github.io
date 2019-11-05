@@ -12,7 +12,7 @@ redirect_from:
 </div>
   
 <div style="text-align: justify">
-  <img src="https://rfablet.github.io/images/im-datawave.jpg" width="384">
+  <img src="https://rfablet.github.io/images/im-datawave.jpg" width="384" align ="middle">
 </div>
 
 ## Recent posts
