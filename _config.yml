@@ -83,12 +83,12 @@ author:
   name             : "Ronan Fablet"
   avatar           : "profile3.png"
   bio              : "Data Science & Ocean Science"
-  location         : "Prof. IMT Atlantique, Brest, France"
+  location         : "Prof. IMT Atlantique, Brest, FR"
   employer         : "Lab-STICC UMR CNRS"
   pubmed           : 
   googlescholar    : "https://scholar.google.fr/citations?user=0donG7gAAAAJ"
   email            : "ronan.fablet[at]imt-atlantique.fr"
-  researchgate     :  "https://www.researchgate.net/profile/Ronan_Fablet"# example: "https://www.researchgate.net/profile/yourprofile"
+  researchgate     : "https://www.researchgate.net/profile/Ronan_Fablet"# example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
   codepen          :
