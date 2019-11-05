@@ -9,10 +9,9 @@ redirect_from:
 ---
 
 <div style="text-align: justify">   
-  <p> <img src="https://rfablet.github.io/images/im-datawave.jpg" width="512" align ="right"></p>
+  <br> <img src="https://rfablet.github.io/images/im-datawave.jpg" width="768" align ="middle"></br>
 
-<p> I am a <strong>Professor at <a href="https://www.imt-atlantique.fr">IMT Atlantique</a></strong> and a research scientist at <strong><a href="https://www.lab-sticc.fr">Lab-STICC</a></strong> in the field of <strong>Data Science and Computational Imaging</strong>. I am deeply involved in interdisciplinary research at the <strong>interface between data science and ocean science</strong>, especially space oceanography and marine ecology. My current research interests include <strong>deep learning for dynamical systems and applications to the understanding, analysis, simulation and reconstruction of ocean dynamics</strong>, especially using satellite ocean remote sensing data. 
-  </p>
+I am a <strong>Professor at <a href="https://www.imt-atlantique.fr">IMT Atlantique</a></strong> and a research scientist at <strong><a href="https://www.lab-sticc.fr">Lab-STICC</a></strong> in the field of <strong>Data Science and Computational Imaging</strong>. I am deeply involved in interdisciplinary research at the <strong>interface between data science and ocean science</strong>, especially space oceanography and marine ecology. My current research interests include <strong>deep learning for dynamical systems and applications to the understanding, analysis, simulation and reconstruction of ocean dynamics</strong>, especially using satellite ocean remote sensing data. 
 <!--</div>
 <div style="text-align: justify">-->
 </div>
