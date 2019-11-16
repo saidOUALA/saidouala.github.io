@@ -13,8 +13,9 @@ Full publication list (including pdf versions):<u><a href= "https://www.research
 <!--{% endif %}-->
 
 
-## Preprints and papers in preparation
-* R. Fablet, L. Drumetz and F. Rousseau. <strong>  End-to-end learning of energy-based representations for irregularly-sampled signals and images.</strong>  arXiv, 1910.00556, 2019. (<a href= "https://arxiv.org/abs/1910.00556"> pdf.</a>)
+## New papers and Preprints
+* R. Lguensat, J. Le Sommer, S. Metref, E. Cosme, R. Fablet. Learning Generalized Quasi-Geostrophic Models Using Deep Neural Numerical Models. Neurisp workshop on Machine Learning and the Physical Sciences, Dec 2019, Vancouver, Canada. (<a href= "https://ml4physicalsciences.github.io/files/NeurIPS_ML4PS_2019_109.pdf"> pdf.</a>)
+R. Fablet, L. Drumetz and F. Rousseau. <strong>  End-to-end learning of energy-based representations for irregularly-sampled signals and images.</strong>  arXiv, 1910.00556, 2019. (<a href= "https://arxiv.org/abs/1910.00556"> pdf.</a>)
 * S. Ouala, D. Nguyen, L. Drumetz, B. Chapron, A. Pascual, F. Collard, L. Gaultier, R. Fablet. <strong> Learning Latent Dynamics for Partially-Observed Chaotic Systems.</strong>  arXiv, 1910.00556, 2019. (<a href= "https://arxiv.org/abs/1907.02452"> pdf.</a>)
 * D. Nguyen, S. Ouala, L. Drumetz, R. Fablet. <strong>  EM-like Learning Chaotic Dynamics from Noisy and Partial Observations. </strong>  
 arXiv, 1903.10335, 2019. (<a href= "https://arxiv.org/abs/1903.10335"> pdf.</a>)
