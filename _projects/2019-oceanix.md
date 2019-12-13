@@ -20,7 +20,7 @@ OceaniX gathers a transdisciplinary team in the framework of EUR Isblue with a r
 
 Keywords: upper ocean dynamics, maritime activities, tactical oceanography, multi-platform and multi-source data, complex dynamical systems, geophysical extremes, deep learning, data-driven representations, inverse problems
 <div style="text-align: justify">
-<strong> Funding bodies:</strong>  ANR, CNES, ENSTA Br., Ecole Navale, ESA, Ifremer, IRD, IMT Atl.
+<strong> Funding bodies:</strong>  ANR, CNES, ENSTA Br., Ecole Navale, ESA, Ifremer, IRD, IMT Atlantique
 </div>
 
 <div style="text-align: justify">
