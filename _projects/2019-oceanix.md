@@ -34,7 +34,7 @@ OceaniX gathers a transdisciplinary team in the framework of EUR Isblue with a r
 </div>
 
 <div style="text-align: justify">
-<strong> International collaborators:</strong>  Prof. S. Brunton (Univ. Washington, USA), Prof. S Matwin (Dalhousie Univ., Canada), Prof. A. Mahalevan (WHOI, USA), L. Bertino (NERCS, Norway), F. Doblas-Reyes (BSC, Spain)
+<strong> International collaborators:</strong>  Prof. S. Brunton (Univ. Washington, USA), Prof. S Matwin (Dalhousie Univ., Canada), Prof. A. Mahadevan (WHOI, USA), L. Bertino (NERCS, Norway), F. Doblas-Reyes (BSC, Spain)
 </div>
 
 <div style="text-align: justify">
