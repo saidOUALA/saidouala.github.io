@@ -18,7 +18,11 @@ Building upon the cross-fertilization of the cutting-edge expertise of Ifremer a
 The ambition of our research-training track is to establish an internationally-recognized research & training group which largely transcends boundaries of AI, oceanography and climatology with strong academy-industry and science-society interactions. It will contribute to stimulating entrepreneurship and academy-industry cross-fertilization (e.g., PhD co-supervised with SMEs, collaborative workshops open to students and lifelong trainees). Our international attractiveness will benefit from the participation to and coordination of international programs (e.g., scientific leadership of international space oceanography missions) and will further develop through among others our English-taught training program, international academic partnerships for incoming and outgoing visiting scholarships and the organization of international workshops and data challenges. Data challenges, at the core of AI communities, remains to be developed in ocean science and is regarded as a key instrument of our strategy.
 OceaniX gathers a transdisciplinary team in the framework of EUR Isblue with a recognized expertise in AI, applied statistics, numerical modeling, remote sensing and ocean sciences. Supported by institutional partnerships (CNES, ENSTA Br., Ecole Navale, ESA, Ifremer, IRD, IMT Atl.) and industrial ones (ACRI-ST/ARGANS, CLS, Eodyn, ITE-FEM, Mercator-Ocean, Microsoft, Naval Group, ODL, OceanNext), its total budget amounts to 4M€, which the requested ANR grant covers 15%.
 
-Keywords: upper ocean dynamics, maritime activities, tactical oceanography, multi-platform and multi-source data, complex dynamical systems, geophysical extremes, deep learning, data-driven representations, inverse problems
+<div style="text-align: justify">
+<strong>Keywords:</strong> upper ocean dynamics, maritime activities, tactical oceanography, multi-platform and multi-source data, complex dynamical systems, geophysical extremes, deep learning, data-driven representations, inverse problems
+</div>
+
+
 <div style="text-align: justify">
 <strong> Funding bodies:</strong>  ANR, CNES, ENSTA Br., Ecole Navale, ESA, Ifremer, IRD, IMT Atlantique
 </div>
