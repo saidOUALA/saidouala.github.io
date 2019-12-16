@@ -36,7 +36,7 @@ Building upon the cross-fertilization of the cutting-edge expertise of Ifremer a
 </div>
 
 <div style="text-align: justify">
-<strong> Role in the project:</strong>  Principal Investigator (co-PIs: B. Chapron (Ifremer, LOPS), X. Carton (UBO, LOPS))
+<strong> Role in the project:</strong>  Principal Investigator (co-PIs: B. Chapron (Ifremer, LOPS), X. Carton (UBO, LOPS), L. Méméery (CNRS, LEMAR))
 </div>
 <div style="text-align: justify">
 <strong> Operating budget:</strong> 2M€ over 5 years (including 8 PhD scholarships)
