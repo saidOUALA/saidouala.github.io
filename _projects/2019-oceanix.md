@@ -28,7 +28,7 @@ Building upon the cross-fertilization of the cutting-edge expertise of Ifremer a
 </div>
 
 <div style="text-align: justify">
-<strong> Industrial partnerships:</strong>  ACRI-ST/ARGANS, CLS, Eodyn, ITE-FEM, Mercator-Ocean, Microsoft, Naval Group, ODL, OceanNext
+<strong> Industrial partnerships:</strong>  ACRI-ST/ARGANS, CLS, Eodyn, ITE-FEM, Mercator-Ocean, Microsoft, Naval Group, ODL, OceanNext, Scalian
 </div>
 
 <div style="text-align: justify">
@@ -36,6 +36,9 @@ Building upon the cross-fertilization of the cutting-edge expertise of Ifremer a
 </div>
 
 <div style="text-align: justify">
-<strong> Role in the project:</strong>  Principal Investigator
+<strong> Role in the project:</strong>  Principal Investigator (co-PIs: B. Chapron (Ifremer, LOPS), X. Carton (UBO, LOPS))
+</div>
+<div style="text-align: justify">
+<strong> Operating budget:</strong> 2M€ over 5 years (including 8 PhD scholarships)
 </div>
 
