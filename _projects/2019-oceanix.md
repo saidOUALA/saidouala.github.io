@@ -24,7 +24,7 @@ Building upon the cross-fertilization of the cutting-edge expertise of Ifremer a
 
 
 <div style="text-align: justify">
-<strong> Funding bodies:</strong>  ANR, CNES, ENSTA Br., Ecole Navale, ESA, Ifremer, IRD, IMT Atlantique
+<strong> Institutional partnerships:</strong>  ANR, CNES, ENSTA Br., Ecole Navale, ESA, Ifremer, IRD, IMT Atlantique
 </div>
 
 <div style="text-align: justify">
