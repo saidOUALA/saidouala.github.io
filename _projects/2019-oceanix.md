@@ -2,7 +2,7 @@
 title: "ANR Chair OceaniX 2020-2024"
 collection: projects
 type: "ANR"
-permalink: /projects/2019-melody
+permalink: /projects/2019-oceanix
 #venue: "IMT Atlantique"
 date: 2019-12-13
 #location: "Brest, FR"
