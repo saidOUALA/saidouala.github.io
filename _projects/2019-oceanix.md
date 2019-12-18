@@ -24,7 +24,7 @@ Building upon the cross-fertilization of the cutting-edge expertise of Ifremer a
 
 
 <div style="text-align: justify">
-<strong> Institutional partnerships:</strong>  ANR, CNES, ENSTA Br., Ecole Navale, ESA, Ifremer, IRD, IMT Atlantique, SHOM
+<strong> Institutional partnerships:</strong>  ANR, CNES, ENSTA Br., Ecole Navale, ESA, Ifremer, IMT Atlantique, IRD, ISblue, SHOM
 </div>
 
 <div style="text-align: justify">
@@ -39,6 +39,6 @@ Building upon the cross-fertilization of the cutting-edge expertise of Ifremer a
 <strong> Role in the project:</strong>  Principal Investigator (co-PIs: B. Chapron (Ifremer, LOPS), X. Carton (UBO, LOPS), L. Méméery (CNRS, LEMAR))
 </div>
 <div style="text-align: justify">
-<strong> Operating budget:</strong> 2M€ over 5 years (including 8 PhD scholarships)
+<strong> Operating budget:</strong> 2M€ over 5 years (including 9 PhD scholarships)
 </div>
 
