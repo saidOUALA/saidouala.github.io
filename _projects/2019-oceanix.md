@@ -19,7 +19,7 @@ Covering more than 70% of earth’s surface, the oceans, especially the upper oc
 Building upon the cross-fertilization of the cutting-edge expertise of Ifremer and Univ. of Brest in marine science and technology and IMT Atlantique in engineering/data science, OceaniX aims to explore and develop <strong>AI-driven strategies and frameworks for the next-generation of self-adaptive multi-platform ocean monitoring and surveillance systems and services with an emphasis on observability and sampling optimality issues for complex dynamics and processes, including extremes and long-term properties.</strong> This general objective will rely on bridging model-driven paradigms underlying physical sciences and data-driven learning-based approaches at the core of AI to learn novel computationally-efficient and physically-sound representations of complex dynamical systems. Supported both by institutional and industrial partners, we aim to develop a cutting-edge dual expertise in AI and Ocean science with a particular emphasis on academy-industry synergies and international attractiveness. 
 
 <div style="text-align: justify">
-<strong>Keywords:</strong> data-driven representations, complex dynamical systems, deep learning, inverse problems, upper ocean dynamics, maritime activities, spacebone and in situ sensors, multi-platform and multi-source data, geophysical extremes, observability, predictability.
+<strong>Keywords:</strong> <i>data-driven representations, complex dynamical systems, deep learning, inverse problems, upper ocean dynamics, maritime activities, spacebone and in situ sensors, multi-platform and multi-source data, geophysical extremes, observability, predictability.</i>
 </div>
 
 
