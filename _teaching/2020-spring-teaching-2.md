@@ -1,5 +1,5 @@
 ---
-title: "Imaging courses @ IMT Atlantique. Spring 2020"
+title: "Imaging courses. Spring 2020"
 collection: teaching
 type: "Graduate course"
 permalink: /teaching/2020-spring-teaching-2
