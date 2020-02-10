@@ -1,10 +1,10 @@
 ---
-title: "Teaching activities"
+title: "Computational imaging course @ IMT Atlantique. Spring 2020"
 collection: teaching
 type: "Graduate course"
-permalink: /teaching/2019-spring-teaching-1
+permalink: /teaching/2020-spring-teaching-2
 venue: "IMT atlantique"
 date: 2019-01-01
 location: "Brest, FR"
 ---
-Taught courses: computer vision, deep learning, computational imaging 
+** Inverse imaging problems & PDEs**: <a href="https://rfablet.github.io/files/coursePDEImaging2020.pdf">link</a> 
