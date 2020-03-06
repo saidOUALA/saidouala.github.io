@@ -10,6 +10,7 @@ date: 2019-12-13
 
 ANR AI Chair OceaniX (2020-2024) "Physics-Informed AI for Observation-driven Ocean AnalytiX"
 <div style="text-align: justify">
+
 Short presentation. 
 ======
 <a href="https://rfablet.github.io/files/pres_OceaniX20200115.pdf"> slides</a>
