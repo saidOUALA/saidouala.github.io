@@ -2,7 +2,7 @@
 title: "ASTRID  SESAME 2017-2020"
 collection: projects
 type: "ANR"
-permalink: /projects/2019-melody
+permalink: /projects/2019-sesame
 #venue: "IMT Atlantique"
 date: 2019-02-01
 #location: "Brest, FR"
