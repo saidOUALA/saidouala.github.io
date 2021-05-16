@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 {% include base_path %}
-**Link to one-page CV** (<a href="https://rfablet.github.io/files/cvANRrfablet2019.pdf">pdf</a>)
+**Link to one-page CV** (<a href="https://rfablet.github.io/files/cvANRrfablet2021.pdf">pdf</a>)
 
 
 Domains of interest
@@ -32,6 +32,7 @@ Professional background
   
 PI of national and international research programs
 ======
+* AI Chair OceaniX 2020-2024, ANR (AI & Ocean dynamics)
 * MELODY 2019-2023, ANR, 7 partners (AI & Ocean dynamics)
 * IA-OAC 2018-2021, LEFE/MANU, 8 partners (AI for Ocean, Atmosphere and Climate Science)
 * SESAME 2017-2020, ANR ASTRID, 4 partners (Maritime traffic surveillance and big data)
