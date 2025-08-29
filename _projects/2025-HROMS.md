@@ -1,10 +1,9 @@
 ---
 title: "SequoIA, HROMS 2025-2029"
 collection: projects
+type: "SequoIA"
 permalink: /projects/2025-HROMS
-#venue: "IMT Atlantique"
 date: 2025-11-01
-#location: "Brest, FR"
 ---
 
 HROMS (2025-2029) "Hybrid Regional Ocean Modeling Systems"
