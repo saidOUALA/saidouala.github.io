@@ -8,16 +8,10 @@ redirect_from:
   - /about.html
 ---
 
-<div style="text-align: justify">   
+<div style="text-align: justify"> 
 
-I am a <strong>Professor at <a href="https://www.imt-atlantique.fr">IMT Atlantique</a></strong> and a research scientist at <strong><a href="https://www.lab-sticc.fr">Lab-STICC</a></strong> in the field of <strong>Data Science and Computational Imaging</strong>. I am quite involved in interdisciplinary research at the <strong>interface between data science and ocean science</strong>, especially space oceanography and marine ecology. My current research interests include <strong>deep learning for dynamical systems and applications to the understanding, analysis, simulation and reconstruction of ocean dynamics</strong>, especially using satellite ocean remote sensing data. 
-<br> <img src="https://rfablet.github.io/images/im-datawave.jpg" width="768" align ="middle">
+I am a <strong>Tenure-Track Professor (Chaire Professeur Junior) at <a href="https://www.imt-atlantique.fr">IMT Atlantique</a></strong> and a research scientist at <strong><a href="https://www.lab-sticc.fr">CNRS UMR-6285</a></strong></a></strong> and the <strong><a href="https://team.inria.fr/odyssey/">INRIA Odyssey team</a></a></strong>. My research focuses on leveraging data science, artificial intelligence, and computational methods to advance Earth system modeling. This includes developing new observational products, designing data assimilation techniques, and building predictive models that integrate physical knowledge with machine learning. My work aims to enhance the understanding and prediction of extreme events in the ocean, atmosphere, and climate.
   
-  **More information on my current research activities through AI Chair OceaniX** (<a href="https://cia-oceanix.github.io/">webpage</a>)
-<!--</div>
-<div style="text-align: justify">-->
-</div>
-
 ## Recent posts
 {% for post in site.posts %}
    - {{ post.date | date_to_string }} » [{{ post.title }}]({{ site.baseurl }}{{ post.url }})
