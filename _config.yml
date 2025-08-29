@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Ronan Fablet"
+title                    : "Said Ouala"
 title_separator          : "-"
-name                     : &name "Ronan Fablet"
+name                     : &name "Said Ouala"
 description              : &description "personal description"
-url                      : https://rfablet.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://saidouala.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "rfablet/rfablet.github.io"
+repository               : "saidouala/saidouala.github.io"
 teaser                   : 500x300.png# filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -80,15 +80,14 @@ analytics:
 
 # Site Author
 author:
-  name             : "Ronan Fablet"
+  name             : "Said Ouala"
   avatar           : "profile.png"
-  bio              : "Data Science & Ocean Science"
-  location         : "Prof. IMT Atlantique, Brest, FR"
-  employer         : "Lab-STICC UMR CNRS"
+  bio              : "AI & computational Science"
+  location         : "Tenure-track Prof. IMT Atlantique, Brest, FR"
   pubmed           : 
-  googlescholar    : "https://scholar.google.fr/citations?user=0donG7gAAAAJ"
-  email            : "ronan.fablet[at]imt-atlantique.fr"
-  researchgate     : "https://www.researchgate.net/profile/Ronan_Fablet"# example: "https://www.researchgate.net/profile/yourprofile"
+  googlescholar    : "https://scholar.google.fr/citations?hl=fr&user=uAiTuK0AAAAJ&view_op=list_works&sortby=pubdate"
+  email            : "said.ouala[at]imt-atlantique.fr"
+  researchgate     : "https://www.researchgate.net/profile/Said-Ouala?ev=hdr_xprf"
   uri              :
   bitbucket        :
   codepen          :
@@ -96,20 +95,18 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "rfablet"
+  github           : "saidOUALA"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "fablet-ronan-49a4547a"
-  orcid            : "https://orcid.org/0000-0002-6462-423X"
+  linkedin         : "said-ouala-55a79491"
+  orcid            : "https://orcid.org/0000-0003-0554-3971"
   pinterest        :
   soundcloud       :
-  stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : #"replacethistwitterhandle"
   vine             :
   weibo            :
   xing             :
