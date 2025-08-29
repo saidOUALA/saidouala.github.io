@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 {% include base_path %}
-**Link to one-page CV** (<a href="https://rfablet.github.io/files/cvANRrfablet2021.pdf">pdf</a>)
+**Link to one-page CV** (<a href="https://saidouala.github.io/files/CV_Said_OUALA_CPJ.pdf">pdf</a>)
 
 
 Domains of interest
