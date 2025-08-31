@@ -7,4 +7,4 @@ venue: "IMT atlantique"
 date: 2014-01-01
 location: "Brest, FR"
 ---
-Taught courses: computer vision, deep learning, Statistics and probability, Data assimilation
+Taught courses: computer vision, deep learning, statistics and probability, data assimilation
